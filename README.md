@@ -49,6 +49,11 @@ review and apply in Power Query:
     property-related columns.
 9.  **Apply Changes** -- Use Close & Apply to load the prepared data
     into the Power BI model.
+   
+
+<img width="1342" height="711" alt="Screenshot 2026-11-25 173511" src="https://github.com/user-attachments/assets/e1b66f94-1506-4f10-bd01-7d439735c083" />
+
+
 
 ## 🔄 Power Query Date Transformation
 
